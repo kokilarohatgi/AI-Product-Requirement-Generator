@@ -1,0 +1,10 @@
+{
+  "description": "Streamline UI/UX design by translating validated product requirements into detailed specifications, ensuring clarity and consistency for development teams.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
